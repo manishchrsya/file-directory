@@ -1,0 +1,11 @@
+.explorer {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.explorer-item {
+  padding: 4px;
+  border-radius: 2px;
+  cursor: pointer;
+}
